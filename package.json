@@ -1,0 +1,8 @@
+{
+  "name": "sakura-escrow",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ]
+}
+
